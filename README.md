@@ -28,6 +28,7 @@ Additional Features
 •	Error handling – This app is made to inform the users if the data cannot be retrieved.
 •	Network Configuration
 Screenshots
+![1](https://github.com/gaveeS/WeatherApplication/assets/171671677/1d91db4c-f75b-4796-b644-20167d8b1227)
 
 
 Contact
